@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+pyarrow
+scikit-learn
+xgboost
+matplotlib
+seaborn
